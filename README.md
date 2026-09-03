@@ -130,12 +130,12 @@ Web applications, REST services and search fundamentals in document-heavy financ
 
 ---
 
-## 📊 GitHub
+## 🔭 Currently
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fussionx&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fussionx&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
+- Building **governed agent systems** — scoped tools, explicit state, human approval checkpoints
+- Pushing on **retrieval quality as a measurable discipline**: groundedness, citation accuracy, adversarial coverage
+- Treating **cost per successful task** as a product metric, not an infrastructure afterthought
+- Most of my production work lives in private enterprise repos — the public repos here are side projects
 
 ---
 
