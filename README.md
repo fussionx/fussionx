@@ -97,16 +97,6 @@ Thirteen years across production software, enterprise search and knowledge syste
 
 ---
 
-## 🚀 Selected Work
-
-| Project | What it is |
-| :-- | :-- |
-| **[whatsapp-mcp](https://github.com/fussionx/whatsapp-mcp)** | Model Context Protocol server giving AI assistants governed access to WhatsApp — Go + Python |
-| **[Tackxel](https://tackxel.vercel.app)** | Product site and web platform — TypeScript, React, Next.js |
-| **[Local-link](https://local-link-pied.vercel.app)** | Community app connecting Manchester residents with their local councillor |
-
----
-
 ## 🧭 Experience
 
 **Lead Applied AI Engineer — Enterprise Search & Generative AI** · *Elastic* · Feb 2023 – Present
