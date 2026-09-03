@@ -125,7 +125,7 @@ Web applications, REST services and search fundamentals in document-heavy financ
 - Building **governed agent systems** - scoped tools, explicit state, human approval checkpoints
 - Pushing on **retrieval quality as a measurable discipline**: groundedness, citation accuracy, adversarial coverage
 - Treating **cost per successful task** as a product metric, not an infrastructure afterthought
-- Most of my production work lives in private enterprise repos — the public repos here are side projects
+- Most of my production work lives in private enterprise repos - the public repos here are side projects
 
 ---
 
