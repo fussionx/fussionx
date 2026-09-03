@@ -14,7 +14,7 @@
 
 ---
 
-> I build AI systems that hold up in production — grounded in real data, measured against real evaluations, and accountable for latency, safety and cost.
+> I build AI systems that hold up in production grounded in real data, measured against real evaluations, and accountable for latency, safety and cost.
 
 Thirteen years across production software, enterprise search and knowledge systems, now focused on applied generative AI. My work lives where prototypes usually break: access-aware retrieval over millions of documents, agents that ask permission before they act, regression suites that catch a bad answer before a user does, and dashboards that tell you what each successful task actually costs.
 
@@ -34,15 +34,15 @@ Thirteen years across production software, enterprise search and knowledge syste
 
 ## 🧠 What I Actually Do
 
-**Enterprise Search & RAG** — Relevance engineering on Elasticsearch/OpenSearch: chunking strategy, embeddings, lexical + vector + hybrid retrieval, metadata filtering, reciprocal-rank fusion, semantic reranking and citation grounding. Retrieval that respects the permissions of the person asking.
+**Enterprise Search & RAG** : Relevance engineering on Elasticsearch/OpenSearch: chunking strategy, embeddings, lexical + vector + hybrid retrieval, metadata filtering, reciprocal-rank fusion, semantic reranking and citation grounding. Retrieval that respects the permissions of the person asking.
 
-**Agents & MCP** — Governed LangGraph workflows with explicit state, scoped tool permissions, retries, resumability, human approval checkpoints and audited execution. MCP-compatible services for controlled access to enterprise data and actions.
+**Agents & MCP** : Governed LangGraph workflows with explicit state, scoped tool permissions, retries, resumability, human approval checkpoints and audited execution. MCP-compatible services for controlled access to enterprise data and actions.
 
-**Evaluation & Guardrails** — Golden datasets, RAGAS, DeepEval, promptfoo, LLM-as-judge. Groundedness, citation accuracy, answer completeness, policy compliance, adversarial and prompt-injection testing, and an error taxonomy that turns failures into fixes.
+**Evaluation & Guardrails** : Golden datasets, RAGAS, DeepEval, promptfoo, LLM-as-judge. Groundedness, citation accuracy, answer completeness, policy compliance, adversarial and prompt-injection testing, and an error taxonomy that turns failures into fixes.
 
-**Production AI & FinOps** — FastAPI on Terraform-managed Kubernetes, OpenTelemetry and Elastic Observability, SLOs and release health, model routing, semantic caching, token budgets, and cost per successful task as a first-class metric.
+**Production AI & FinOps** : FastAPI on Terraform-managed Kubernetes, OpenTelemetry and Elastic Observability, SLOs and release health, model routing, semantic caching, token budgets, and cost per successful task as a first-class metric.
 
-**Access Control & Trust** — OAuth/OIDC, IAM/RBAC, access-aware retrieval, secrets management, private networking, audit logs and PII controls. Regulated healthcare and financial-services workflows.
+**Access Control & Trust** : OAuth/OIDC, IAM/RBAC, access-aware retrieval, secrets management, private networking, audit logs and PII controls. Regulated healthcare and financial-services workflows.
 
 ---
 
@@ -99,7 +99,7 @@ Thirteen years across production software, enterprise search and knowledge syste
 
 ## 🧭 Experience
 
-**Lead Applied AI Engineer — Enterprise Search & Generative AI** · *Elastic* · Feb 2023 – Present
+**Lead Applied AI Engineer : Enterprise Search & Generative AI** · *Elastic* · Feb 2023 – Present
 Access-aware RAG at 2.4M-document scale, governed LangGraph + MCP agents across 18 approved tools, multi-model gateway over Bedrock/OpenAI/Anthropic, and a 1,500-case evaluation framework.
 
 **Senior AI Software Engineer** · *Baptist Health* · Apr 2019 – Jan 2023
@@ -115,14 +115,14 @@ Web applications, REST services and search fundamentals in document-heavy financ
 
 ## 🎓 Education & Certifications
 
-**B.S. Computer Science** — DeVry University, 2012
-**AWS Certified Developer – Associate** · **Google Cloud Professional Cloud Developer**
+**B.S. Computer Science** - DeVry University, 2012
+**AWS Certified Developer - Associate** · **Google Cloud Professional Cloud Developer**
 
 ---
 
 ## 🔭 Currently
 
-- Building **governed agent systems** — scoped tools, explicit state, human approval checkpoints
+- Building **governed agent systems** - scoped tools, explicit state, human approval checkpoints
 - Pushing on **retrieval quality as a measurable discipline**: groundedness, citation accuracy, adversarial coverage
 - Treating **cost per successful task** as a product metric, not an infrastructure afterthought
 - Most of my production work lives in private enterprise repos — the public repos here are side projects
